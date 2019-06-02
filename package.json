@@ -1,0 +1,14 @@
+{
+  "name": "login-demo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Login demo",
+  "author": "toyobayashi",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run build && npm run start-server open",
+    "serve": "cd ./client && npm run serve",
+    "build": "cd ./client && npm run build",
+    "start-server": "node ./server/index.js"
+  }
+}
