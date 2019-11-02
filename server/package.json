@@ -17,7 +17,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "koa2-connect-history-api-fallback": "^0.1.2",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "open": "^6.3.0"
   }
 }
